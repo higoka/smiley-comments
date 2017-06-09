@@ -1,5 +1,5 @@
 # Smiley Comments
-Use Smileys in Comments for BrainCMS.
+Addon to use for BrainCMS that adds smileys support to the comments.
 
 ### Setup
 Download the ZIP file and extract it. Replace all the files with the files from BrainCMS.

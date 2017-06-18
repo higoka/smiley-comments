@@ -39,3 +39,14 @@ $config['smileys'] = [
 ```
 
 If done correctly, you now have setup smiley in the comments.
+
+### Contribute
+Contribution, bug fixes etc are [always welcome](https://github.com/tafelglotzer/smiley-comments/issues/new).
+
+### Credits
+- [Tafelglotzer](https://github.com/tafelglotzer)
+- [All Contributors](https://github.com/tafelglotzer/smiley-comments/contributors)
+
+### License
+The MIT License (MIT).
+Please see [License File](https://github.com/tafelglotzer/smiley-comments/blob/master/LICENSE) for more information.

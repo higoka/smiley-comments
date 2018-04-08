@@ -1,7 +1,7 @@
 # Smiley Comments
 Addon to use for BrainCMS that adds smileys support to the comments.
 
-Example: https://retrotown.ws/index.php/ImageProxy/?image=cf65ad91817c2590d6a4f0a174aa3c44acd0d3fd-aHR0cHM6Ly9waWNyLndzL2QvZmQwNC5wbmc%3D
+Example: https://picr.ws/i/rsn
 
 ### Setup
 Download the ZIP file and extract it. Replace all the files with the files from BrainCMS.

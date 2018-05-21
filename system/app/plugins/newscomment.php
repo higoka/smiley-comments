@@ -26,7 +26,7 @@
 							$message = htmlspecialchars($_POST['message'], ENT_QUOTES, 'UTF-8');
 
 							/**
-							 * Smiley Addon by Tafelglotzer
+							 * Smiley Addon by Higoka
 							 */
 							if ($config['smileys']['enabled']) {
 								$message = strtr($message, array_map(function ($value) use ($config) {
